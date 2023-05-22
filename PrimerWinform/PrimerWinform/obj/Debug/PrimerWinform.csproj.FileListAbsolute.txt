@@ -1,0 +1,12 @@
+D:\Repositorios\PrimerWinform\PrimerWinform\bin\Debug\PrimerWinform.exe.config
+D:\Repositorios\PrimerWinform\PrimerWinform\bin\Debug\PrimerWinform.exe
+D:\Repositorios\PrimerWinform\PrimerWinform\bin\Debug\PrimerWinform.pdb
+D:\Repositorios\PrimerWinform\PrimerWinform\obj\Debug\PrimerWinform.csproj.AssemblyReference.cache
+D:\Repositorios\PrimerWinform\PrimerWinform\obj\Debug\PrimerWinform.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\PrimerWinform\PrimerWinform\obj\Debug\PrimerWinform.Properties.Resources.resources
+D:\Repositorios\PrimerWinform\PrimerWinform\obj\Debug\PrimerWinform.csproj.GenerateResource.cache
+D:\Repositorios\PrimerWinform\PrimerWinform\obj\Debug\PrimerWinform.csproj.CoreCompileInputs.cache
+D:\Repositorios\PrimerWinform\PrimerWinform\obj\Debug\PrimerWinform.exe
+D:\Repositorios\PrimerWinform\PrimerWinform\obj\Debug\PrimerWinform.pdb
+D:\Repositorios\PrimerWinform\PrimerWinform\obj\Debug\PrimerWinform.frmVentana2.resources
+D:\Repositorios\PrimerWinform\PrimerWinform\obj\Debug\PrimerWinform.frm_main.resources
