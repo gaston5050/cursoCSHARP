@@ -40,6 +40,18 @@ namespace PrimerWinform
 
         private void btnImprimir_Click(object sender, EventArgs e)
         {
+            string nombre = txtNombreCV.Text;
+            DateTime fecharda = dtpFecha.Value.Date;
+            //operador ternario 
+            string humano = chbPregunta.Checked == true ? "si, e humanoide" : "no, eh human";
+            string color;
+            if (rbBlanco.Checked == true) color = "blanco";
+            else if (rbRojo.Checked == true) color = "rojo";
+            else color = "NEGRONCIO "; 
+
+            string numero = cbNumeros.SelectedItem.ToString();
+
+            MessageBox.Show("SE chiama: " + nombre + " naceu : " + fecharda + "  é humnoide? "+ humano + "  le gusta el rosa? " + color + "  numerolo de la suertela " + numero);
 
         }
 

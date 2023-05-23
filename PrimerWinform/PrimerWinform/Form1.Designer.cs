@@ -49,9 +49,9 @@
             this.cbNumeros = new System.Windows.Forms.ComboBox();
             this.lbNumero = new System.Windows.Forms.Label();
             this.lbAltura = new System.Windows.Forms.Label();
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.nudAlturaCasa = new System.Windows.Forms.NumericUpDown();
             this.gbColor.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudAlturaCasa)).BeginInit();
             this.SuspendLayout();
             // 
             // bnt_boton1
@@ -245,24 +245,24 @@
             this.lbAltura.TabIndex = 20;
             this.lbAltura.Text = "Altura de tu casa";
             // 
-            // numericUpDown1
+            // nudAlturaCasa
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(624, 422);
-            this.numericUpDown1.Maximum = new decimal(new int[] {
+            this.nudAlturaCasa.Location = new System.Drawing.Point(624, 422);
+            this.nudAlturaCasa.Maximum = new decimal(new int[] {
             5,
             0,
             0,
             0});
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(120, 22);
-            this.numericUpDown1.TabIndex = 321;
+            this.nudAlturaCasa.Name = "nudAlturaCasa";
+            this.nudAlturaCasa.Size = new System.Drawing.Size(120, 22);
+            this.nudAlturaCasa.TabIndex = 321;
             // 
             // frm_main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(931, 658);
-            this.Controls.Add(this.numericUpDown1);
+            this.Controls.Add(this.nudAlturaCasa);
             this.Controls.Add(this.lbAltura);
             this.Controls.Add(this.lbNumero);
             this.Controls.Add(this.cbNumeros);
@@ -286,7 +286,7 @@
             this.Load += new System.EventHandler(this.frm_main_Load);
             this.gbColor.ResumeLayout(false);
             this.gbColor.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudAlturaCasa)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -315,7 +315,7 @@
         private System.Windows.Forms.ComboBox cbNumeros;
         private System.Windows.Forms.Label lbNumero;
         private System.Windows.Forms.Label lbAltura;
-        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.NumericUpDown nudAlturaCasa;
     }
 }
 
